@@ -1,0 +1,84 @@
+canonical_identifier: bkk:krp/KR3el008/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3el008/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 少林真傳傷科秘方
+  identifiers:
+    krp: KR3el008
+  tags:
+    kr-categories: KR3el
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el008.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3el008_000-jc.yaml, hash: 'sha256:b6c0bfbe4b1f10d6fe92404174145baf9f0aa69d11f4c3e65758c1069b3bd5e9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3el008_000-jc.markers.yaml, hash: 'sha256:ef84d137b082c7a02a1ecb8e1342e37d56e18ce9155b1380215d799d74be11b2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3el008_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 11648
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el008_jc_000-d2d108
+    span:
+    - body
+    - 1787
+    - 2135
+  label: 穴道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el008_jc_000-d2d109
+    span:
+    - body
+    - 2135
+    - 2277
+  label: 拳傷辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el008_jc_000-d2d110
+    span:
+    - body
+    - 2277
+    - 7772
+  label: 跌打損傷穴道要訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el008_jc_000-d2d111
+    span:
+    - body
+    - 7772
+    - 10999
+  label: 接骨膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el008_jc_000-d2d112
+    span:
+    - body
+    - 10999
+    - 11648
+  label: 附錄損傷方
+  type: section
+  level: 2
+hash: sha256:b37efba689e1534347905e7d33a9a6816cbee678b52a2605e742c2fa85ff7424
