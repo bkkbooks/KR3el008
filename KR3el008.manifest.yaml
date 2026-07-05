@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el008_000.yaml, hash: 'sha256:557d4c92b44d9b47f42e0a7963d7d3fb9c06b05a12e070798c21c431d79afe6c'}
+  - {seq: 0, filename: KR3el008_000.yaml, hash: 'sha256:b6c0bfbe4b1f10d6fe92404174145baf9f0aa69d11f4c3e65758c1069b3bd5e9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el008_000.markers.yaml, hash: 'sha256:3814d38d308f4e3ceac2c9a901be0df22db82bfec49da988e59301c9cc687bd2'}
+  - {seq: 0, role: markers, filename: assets/KR3el008_000.markers.yaml, hash: 'sha256:5e477801f6bb9bdd83a2f43869ec8aaed8ade3fb6d4007eaa28cef1549267648'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,7 +81,4 @@ table_of_contents:
   label: 附錄損傷方
   type: section
   level: 2
-hash: sha256:52184dd5fdb9507819f22ca06b31db597be4013f39b6d1096a9c613e71b5076b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:96d4ec9d4d20ede79ce044f61d933017d27a465e69d6f6095132c4f66317b105
