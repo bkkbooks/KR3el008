@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el008_000.yaml, hash: 'sha256:3864fc70335a21be82dd99c6087ad7a994278ab619cf2a0d4d4469b475950c34'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el008_000.markers.yaml, hash: 'sha256:5ad44367a1a272350e3f209c5c5329638070960045dfadb8667f3483bf14d3fc'}
+  - {seq: 0, role: markers, filename: assets/KR3el008_000.markers.yaml, hash: 'sha256:f22f9b080739d6538418d0971435e904c90358be083dc10f8e954d46a7705d5b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,7 +81,7 @@ table_of_contents:
   label: 附錄損傷方
   type: section
   level: 2
-hash: sha256:010f5b211dd851bb4ce811bfa88444749e02deb39b7f9970b33e6b626f263a70
+hash: sha256:a5da0401c676fe505a3ba50dc292e32d2a60ca76bf66a8ce7b9a06cd1e58b035
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el008_000-jc.yaml, hash: 'sha256:b6c0bfbe4b1f10d6fe92404174145baf9f0aa69d11f4c3e65758c1069b3bd5e9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el008_000-jc.markers.yaml, hash: 'sha256:ef84d137b082c7a02a1ecb8e1342e37d56e18ce9155b1380215d799d74be11b2'}
+  - {seq: 0, role: markers, filename: assets/KR3el008_000-jc.markers.yaml, hash: 'sha256:9691fc11fda5b851f67a1b3698f673cd5144ced3897ec6f21d6221feaa9447ed'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,4 +81,4 @@ table_of_contents:
   label: 附錄損傷方
   type: section
   level: 2
-hash: sha256:b37efba689e1534347905e7d33a9a6816cbee678b52a2605e742c2fa85ff7424
+hash: sha256:8b9e5e9cdbc82dff45555bfa1da62edd97cf160524ecd0b54870211c07e3e312
